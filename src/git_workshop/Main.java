@@ -3,7 +3,7 @@ package git_workshop;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("first commit step2");
+		System.out.println("I would be happier if I could sleep the day away");
 
 	}
 
